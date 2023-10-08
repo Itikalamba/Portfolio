@@ -701,7 +701,7 @@ a {
 
 #project2 {
   margin-left: 350px;
-  background-image: url(./images/userAsset/project-2-parallax.png);
+  background-image: url(./images/projects/weather.png);
 }
 
 #project3 {
@@ -723,6 +723,17 @@ a {
 .rocket img {
   width: 400px;
   height: auto;
+}
+.icon-2{
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.icon-2 i{
+  font-size:30px;
+  margin-left:8px;
+
 }
 
 @media (max-width:480px) {
